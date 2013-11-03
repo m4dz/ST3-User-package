@@ -1,0 +1,41 @@
+{
+	"color_scheme": "Packages/Br4ckets-Theme/Br4ckets (Night).tmtheme",
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		"*.sublime-project",
+		"*.sublime-workspace",
+		".DS_Store"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		".sass-cache",
+		".tmp",
+		"CVS",
+		"node_modules"
+	],
+	"font_face": "Source Code Pro Light",
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"match_brackets": false,
+	"rulers":
+	[
+		80
+	],
+	"save_on_focus_lost": true,
+	"tab_size": 2,
+	"theme": "Brackets.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": false,
+	"wrap_width": 80
+}

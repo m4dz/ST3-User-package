@@ -1,0 +1,17 @@
+[
+  /* Indentation */
+  { "keys": ["alt+tab"], "command": "indent" },
+  { "keys": ["alt+shift+tab"], "command": "unindent" },
+
+  /* Workspaces */
+  { "keys": ["super+ctrl+o"], "command": "prompt_open_workspace" },
+
+  /* GOTO */
+  { "keys": ["ctrl+alt+down"], "command": "goto_definition"},
+  { "keys": ["ctrl+alt+u"], "command": "open_url"},
+
+  /* Code */
+  { "keys": ["super+alt+:", "super+alt+up"], "command": "fold" },
+  { "keys": ["super+alt+:", "super+alt+down"], "command": "unfold" },
+  { "keys": ["ctrl+'"], "command": "change_quotes" }
+]

@@ -1,0 +1,5 @@
+{
+  "sublimelinter": "save-only",
+  "sublimelinter_gutter_marks_theme": "alpha",
+  "sublimelinter_popup_errors_on_save": true
+}

@@ -1,0 +1,33 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"ChangeQuotes",
+		"DocBlockr",
+		"Dotfiles Syntax Highlighting",
+		"EditorConfig",
+		"Emmet",
+		"FindKeyConflicts",
+		"Git",
+		"Gitignore",
+		"Goto Documentation",
+		"Grunt",
+		"Handlebars",
+		"Inc-Dec-Value",
+		"Jade",
+		"jQuery",
+		"LESS",
+		"LineEndings",
+		"Modific",
+		"nginx",
+		"Open URL",
+		"Sass",
+		"SCSS",
+		"SideBarEnhancements",
+		"Theme - Soda",
+		"Vagrant"
+	]
+}
