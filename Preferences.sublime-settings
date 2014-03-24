@@ -1,12 +1,17 @@
 {
-	"color_scheme": "Packages/Br4ckets-Theme/Br4ckets (Night).tmtheme",
+	"color_scheme": "Packages/User/Br4ckets (Night) (SL).tmTheme",
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
 	[
 		"*.sublime-project",
 		"*.sublime-workspace",
-		".DS_Store"
+		".DS_Store",
+		"*.pyc",
+		"*.sqlite2",
+		"*.sqlite3",
+		"*.db",
+		"*.lock"
 	],
 	"folder_exclude_patterns":
 	[
@@ -22,7 +27,11 @@
 	"font_size": 11,
 	"ignored_packages":
 	[
-		"Vintage"
+		"JavaScript",
+		"SublimeLinter-ruby",
+		"Modific",
+		"Vintage",
+		"SVN"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,

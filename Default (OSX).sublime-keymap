@@ -1,10 +1,10 @@
 [
   /* Indentation */
-  { "keys": ["alt+tab"], "command": "indent" },
-  { "keys": ["alt+shift+tab"], "command": "unindent" },
+  // { "keys": ["alt+tab"], "command": "indent" },
+  // { "keys": ["alt+shift+tab"], "command": "unindent" },
 
   /* Workspaces */
-  { "keys": ["super+ctrl+o"], "command": "prompt_open_workspace" },
+  { "keys": ["super+alt+o"], "command": "prompt_open_workspace" },
 
   /* GOTO */
   { "keys": ["ctrl+alt+down"], "command": "goto_definition"},
@@ -13,5 +13,5 @@
   /* Code */
   { "keys": ["super+alt+:", "super+alt+up"], "command": "fold" },
   { "keys": ["super+alt+:", "super+alt+down"], "command": "unfold" },
-  { "keys": ["ctrl+'"], "command": "change_quotes" }
+  { "keys": ["alt+'"], "command": "change_quotes" }
 ]
