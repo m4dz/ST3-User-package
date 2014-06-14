@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/User/Br4ckets (Night) (SL).tmTheme",
+	"color_scheme": "Packages/User/Br4ckets (Day) (SL).tmTheme",
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
@@ -23,15 +23,15 @@
 		"CVS",
 		"node_modules"
 	],
-	"font_face": "Source Code Pro Light",
+	"font_face": "Source Code Pro",
 	"font_size": 11,
 	"ignored_packages":
 	[
-		"JavaScript",
-		"SublimeLinter-ruby",
 		"Modific",
 		"Vintage",
-		"SVN"
+		"SVN",
+		"JavaScript",
+		"SublimeLinter-ruby"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
