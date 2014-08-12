@@ -21,10 +21,11 @@
 		".sass-cache",
 		".tmp",
 		"CVS",
-		"node_modules"
+		"node_modules",
+		"bower_components"
 	],
 	"font_face": "Source Code Pro",
-	"font_size": 11,
+	"font_size": 12,
 	"ignored_packages":
 	[
 		"Modific",
