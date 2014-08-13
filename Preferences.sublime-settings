@@ -1,5 +1,11 @@
 {
-	"color_scheme": "Packages/User/Br4ckets (Day) (SL).tmTheme",
+	"caret_extra_width": 1,
+	"caret_style": "phase",
+	"close_windows_when_empty": true,
+	"color_scheme": "Packages/User/predawn (SL).tmTheme",
+	"copy_with_empty_selection": false,
+	"drag_text": false,
+	"draw_minimap_border": true,
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
@@ -13,6 +19,7 @@
 		"*.db",
 		"*.lock"
 	],
+	"findreplace_small": true,
 	"folder_exclude_patterns":
 	[
 		".svn",
@@ -24,13 +31,18 @@
 		"node_modules",
 		"bower_components"
 	],
-	"font_face": "Source Code Pro",
-	"font_size": 12,
+	"font_face": "Source Code Pro Light",
+	"font_options":
+	[
+		"no_round"
+	],
+	"font_size": 11,
+	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Modific",
-		"Vintage",
 		"SVN",
+		"Vintage",
+		"Modific",
 		"JavaScript",
 		"SublimeLinter-ruby"
 	],
@@ -42,8 +54,8 @@
 		80
 	],
 	"save_on_focus_lost": true,
-	"tab_size": 2,
-	"theme": "Brackets.sublime-theme",
+	"tabs_medium": true,
+	"theme": "predawn.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": false,
