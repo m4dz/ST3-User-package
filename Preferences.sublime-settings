@@ -40,10 +40,10 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"SVN",
-		"Vintage",
 		"Modific",
 		"JavaScript",
+		"SVN",
+		"Vintage",
 		"SublimeLinter-ruby"
 	],
 	"line_padding_bottom": 1,
