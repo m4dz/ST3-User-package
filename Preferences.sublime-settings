@@ -40,11 +40,8 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Modific",
-		"JavaScript",
 		"SVN",
-		"Vintage",
-		"SublimeLinter-ruby"
+		"Vintage"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
@@ -54,6 +51,7 @@
 		80
 	],
 	"save_on_focus_lost": true,
+	"sidebar_medium": true,
 	"tabs_medium": true,
 	"theme": "predawn.sublime-theme",
 	"translate_tabs_to_spaces": true,
