@@ -40,8 +40,8 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"SVN",
-		"Vintage"
+		"Vintage",
+		"SVN"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,

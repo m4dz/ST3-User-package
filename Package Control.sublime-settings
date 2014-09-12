@@ -2,14 +2,11 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
-		"Alignment",
-		"AlignTab",
 		"Backbone.js",
 		"Better CoffeeScript",
-		"Better JavaScript",
 		"BracketHighlighter",
 		"ChangeQuotes",
-		"DashDoc",
+		"CodeIgniter Utilities",
 		"DocBlockr",
 		"Dotfiles Syntax Highlighting",
 		"EditorConfig",
@@ -17,7 +14,6 @@
 		"FindKeyConflicts",
 		"Git",
 		"Gitignore",
-		"Goto Documentation",
 		"Grunt",
 		"Handlebars",
 		"Inc-Dec-Value",
@@ -25,7 +21,6 @@
 		"JavaScript Console",
 		"Jinja2",
 		"jQuery",
-		"LESS",
 		"LineEndings",
 		"MacTerminal",
 		"Modific",
@@ -51,10 +46,12 @@
 		"SublimeLinter-php",
 		"SublimeLinter-pyflakes",
 		"SublimeLinter-ruby",
+		"Sublimerge Pro",
 		"SVN",
 		"Theme - Soda",
+		"TodoReview",
+		"Twig",
 		"Underscore.js Snippets",
-		"Vagrant",
-		"VCS Gutter"
+		"Vagrant"
 	]
 }
