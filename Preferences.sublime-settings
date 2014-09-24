@@ -17,7 +17,8 @@
 		"*.sqlite2",
 		"*.sqlite3",
 		"*.db",
-		"*.lock"
+		"*.lock",
+		"*-version"
 	],
 	"findreplace_small": true,
 	"folder_exclude_patterns":
@@ -31,7 +32,7 @@
 		"node_modules",
 		"bower_components"
 	],
-	"font_face": "Source Code Pro Light",
+	"font_face": "Input",
 	"font_options":
 	[
 		"no_round"
