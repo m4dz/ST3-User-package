@@ -30,7 +30,8 @@
 		".tmp",
 		"CVS",
 		"node_modules",
-		"bower_components"
+		"bower_components",
+		"_site"
 	],
 	"font_face": "Input",
 	"font_options":
@@ -41,8 +42,9 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"SVN",
 		"Vintage",
-		"SVN"
+		"JavaScript"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,

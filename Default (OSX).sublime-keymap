@@ -24,7 +24,6 @@
 
   /* GOTO */
   { "keys": ["ctrl+alt+down"], "command": "goto_definition"},
-  { "keys": ["ctrl+alt+u"], "command": "open_url"},
 
   /* Code */
   { "keys": ["super+alt+:", "super+alt+up"], "command": "fold" },
@@ -32,5 +31,8 @@
   { "keys": ["alt+'"], "command": "change_quotes" },
 
   /* SublimeGit */
-  { "keys": ["ctrl+alt+g"], "command": "git_status"}
+  { "keys": ["ctrl+alt+g"], "command": "git_status"},
+
+  /* Vertical alignment */
+  { "keys": ["super+:"], "command": "valign" }
 ]

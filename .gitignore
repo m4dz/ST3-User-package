@@ -1,3 +1,5 @@
 *.cache
 *.tmTheme
 Package Control.last-run
+SublimeGit.sublime-settings
+Sublimerge.sublime-license
