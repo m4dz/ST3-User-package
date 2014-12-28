@@ -1,4 +1,12 @@
 {
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
@@ -7,6 +15,8 @@
 		"Better JavaScript",
 		"BracketHighlighter",
 		"ChangeQuotes",
+		"Cucumber",
+		"DashDoc",
 		"DocBlockr",
 		"Dotfiles Syntax Highlighting",
 		"EditorConfig",
@@ -26,7 +36,7 @@
 		"Modific",
 		"MultiEditUtils",
 		"nginx",
-		"OmniMarkupPreviewer",
+		"Package Control",
 		"Predawn",
 		"Railscasts Extended",
 		"Sass",
