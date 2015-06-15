@@ -1,0 +1,35 @@
+[
+	{"id": "side-bar-files-open-with",
+		"children":
+		[
+			{
+				"caption": "Pixelmator",
+				"id": "side-bar-files-open-with-pixelmator",
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+									"application": "Pixelmator.app",
+									"extensions":"gif|tiff|png|jpg|jpeg",
+									"args":[]
+								},
+				"open_automatically" : false
+			},
+
+			{"caption":"-"},
+
+			{
+				"caption": "Chrome",
+				"id": "side-bar-files-open-with-chrome",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+									"application": "Chrome.app",
+									"extensions":"html|svg",
+									"args":[]
+						},
+				"open_automatically" : false
+			}
+		]
+	}
+]

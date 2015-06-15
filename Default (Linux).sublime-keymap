@@ -1,0 +1,29 @@
+[
+    // Search
+    { "keys": ["ctrl+shift+f3"], "command": "find_all_under" },
+    // Selection
+    { "keys": ["alt+shift+up"], "command": "select_lines", "args": {"forward": false} },
+    { "keys": ["alt+shift+down"], "command": "select_lines", "args": {"forward": true} },
+    // View / Layout
+    {
+        "keys": ["alt+shift+0"],
+        "command": "set_layout",
+        "args":
+        {
+            "cols": [0.0, 0.5, 1.0],
+            "rows": [0.0, 0.5, 1.0],
+            "cells": [
+                [0, 0, 1, 2],
+                [1, 0, 2, 1],
+                [1, 1, 2, 2]
+            ]
+        }
+    },
+    // Project manager
+    { "keys": ["ctrl+alt+p"], "command": "project_manager" },
+    { "keys": ["ctrl+shift+w"], "command": "project_manager_close_window" },
+    // Change Quotes
+    { "keys": ["ctrl+shift+'"], "command": "change_quotes" },
+    // SublimeGit
+    { "keys": ["ctrl+alt+g"], "command": "git_status"}
+]

@@ -2,11 +2,6 @@
 	"in_process_packages":
 	[
 	],
-	"installed_dependencies":
-	[
-		"0_package_control_loader",
-		"bz2"
-	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
@@ -15,6 +10,7 @@
 		"Better JavaScript",
 		"BracketHighlighter",
 		"ChangeQuotes",
+		"Color Highlighter",
 		"Cucumber",
 		"DashDoc",
 		"DocBlockr",
@@ -36,12 +32,15 @@
 		"Modific",
 		"MultiEditUtils",
 		"nginx",
+		"OmniMarkupPreviewer",
 		"Package Control",
-		"Predawn",
+		"Project Manager",
 		"Railscasts Extended",
 		"Sass",
 		"SCSS",
 		"SideBarEnhancements",
+		"Stylus",
+		"Stylus-Snippets",
 		"SublimeGit",
 		"SublimeLinter",
 		"SublimeLinter-annotations",
@@ -57,7 +56,7 @@
 		"SublimeLinter-ruby",
 		"Sublimerge Pro",
 		"SVN",
-		"Theme - Soda",
+		"Theme - Fox",
 		"TodoReview",
 		"Twig",
 		"Underscore.js Snippets",

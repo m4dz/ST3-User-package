@@ -28,11 +28,8 @@
   /* Code */
   { "keys": ["super+alt+:", "super+alt+up"], "command": "fold" },
   { "keys": ["super+alt+:", "super+alt+down"], "command": "unfold" },
-  { "keys": ["alt+'"], "command": "change_quotes" },
+  { "keys": ["ctrl+shift+'"], "command": "change_quotes" },
 
   /* SublimeGit */
   { "keys": ["ctrl+alt+g"], "command": "git_status"},
-
-  /* Vertical alignment */
-  { "keys": ["super+:"], "command": "valign" }
 ]

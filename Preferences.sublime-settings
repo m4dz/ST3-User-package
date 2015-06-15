@@ -1,11 +1,13 @@
 {
-	"caret_extra_width": 1,
+	"caret_extra_bottom": 3,
+	"caret_extra_top": 3,
+	"caret_extra_width": 2,
 	"caret_style": "phase",
 	"close_windows_when_empty": true,
-	"color_scheme": "Packages/Railscasts Extended/Railscasts Extended.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Flatland_Dark (SL).tmTheme",
 	"copy_with_empty_selection": false,
 	"drag_text": false,
-	"draw_minimap_border": true,
+	"draw_minimap_border": false,
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
@@ -30,7 +32,6 @@
 		".tmp",
 		"CVS",
 		"node_modules",
-		"bower_components",
 		"_site"
 	],
 	"font_face": "Input",
@@ -38,27 +39,30 @@
 	[
 		"no_round"
 	],
-	"font_size": 11,
+	"font_size": 10,
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"JavaScript",
 		"SVN",
-		"Vintage",
-		"JavaScript"
+		"Vintage"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
 	"match_brackets": false,
+	"overlay_scroll_bars": "enabled",
 	"rulers":
 	[
 		80
 	],
 	"save_on_focus_lost": true,
+	"show_minimap": false,
 	"sidebar_medium": true,
 	"tabs_medium": true,
-	"theme": "predawn.sublime-theme",
+	"theme": "Fox Light.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
+	"update_check": false,
 	"word_wrap": false,
 	"wrap_width": 80
 }
